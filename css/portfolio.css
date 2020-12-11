@@ -24,6 +24,20 @@
     padding: 120px 0 80px 40px;
 }
 
+article {
+    height: 600px;
+    width: 60%;
+    background: #fff;
+    padding: 30px;
+}
+
+h2 {
+    font-family: 'Lora', serif;
+    font-size: 42px;
+    font-weight: 500;
+    color: #20B2AA;
+}
+
 /***** FOOTER SECTION *****/
 
 #green-bar {
